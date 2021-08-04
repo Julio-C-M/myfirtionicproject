@@ -1,0 +1,6 @@
+{
+	"appId": "com.juliom.app",
+	"appName": "myfirstionicproyect",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

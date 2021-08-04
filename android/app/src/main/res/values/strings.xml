@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">myfirstionicproyect</string>
+    <string name="title_activity_main">myfirstionicproyect</string>
+    <string name="package_name">com.juliom.app</string>
+    <string name="custom_url_scheme">com.juliom.app</string>
+</resources>
